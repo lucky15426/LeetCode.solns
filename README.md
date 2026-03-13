@@ -20,10 +20,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/lucky15426/LeetCode.solns/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/lucky15426/LeetCode.solns/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0202-happy-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/lucky15426/LeetCode.solns/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
