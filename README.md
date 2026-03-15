@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/lucky15426/LeetCode.solns/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0344-reverse-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/lucky15426/LeetCode.solns/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/lucky15426/LeetCode.solns/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/lucky15426/LeetCode.solns/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0344-reverse-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/lucky15426/LeetCode.solns/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
