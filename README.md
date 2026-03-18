@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lucky15426/LeetCode.solns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0189-rotate-array/) | Medium |
+| [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0344-reverse-string/) | Easy |
+| [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/lucky15426/LeetCode.solns/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0088-merge-sorted-array/) | Easy |
+| [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +83,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0011-container-with-most-water/) | Medium |
+| [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
