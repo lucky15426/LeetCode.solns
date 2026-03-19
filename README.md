@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/lucky15426/LeetCode.solns/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/lucky15426/LeetCode.solns/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lucky15426/LeetCode.solns/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lucky15426/LeetCode.solns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0189-rotate-array/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lucky15426/LeetCode.solns/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
