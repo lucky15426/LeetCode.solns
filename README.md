@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/lucky15426/LeetCode.solns/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Recursion
@@ -85,12 +87,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0088-merge-sorted-array/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lucky15426/LeetCode.solns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,8 +120,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/lucky15426/LeetCode.solns/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
