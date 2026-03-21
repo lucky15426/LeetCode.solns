@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0042-trapping-rain-water/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/lucky15426/LeetCode.solns/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -135,4 +136,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/lucky15426/LeetCode.solns/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/lucky15426/LeetCode.solns/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
