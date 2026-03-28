@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/lucky15426/LeetCode.solns/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/lucky15426/LeetCode.solns/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lucky15426/LeetCode.solns/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/lucky15426/LeetCode.solns/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
