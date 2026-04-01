@@ -9,21 +9,12 @@ class Solution {
             
 
         }
-        String res= str.toString();
+        String hehe=str.toString();
+       StringBuilder rev=new StringBuilder(hehe).reverse();
 
-        int left=0;
-        int right=res.length()-1;
-
-        while(left<right){
-            if(res.charAt(left)!=res.charAt(right)){
-                return false;
-                
-            }
-            left++;
-            right--;
-            
-        }
+       if(str.toString().equals(rev.toString())){
         return true;
+       }return false;
                 
         
     }
