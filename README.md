@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0213-house-robber-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0322-coin-change](https://github.com/lucky15426/LeetCode.solns/tree/main/0322-coin-change/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/lucky15426/LeetCode.solns/tree/main/0739-daily-temperatures/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lucky15426/LeetCode.solns/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/lucky15426/LeetCode.solns/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/lucky15426/LeetCode.solns/tree/main/0322-coin-change/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/lucky15426/LeetCode.solns/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Stack
@@ -203,4 +205,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/lucky15426/LeetCode.solns/tree/main/0070-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/lucky15426/LeetCode.solns/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/lucky15426/LeetCode.solns/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
