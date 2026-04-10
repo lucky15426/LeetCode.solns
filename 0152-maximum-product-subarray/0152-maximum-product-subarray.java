@@ -6,9 +6,10 @@ class Solution {
 
         for(int num:nums){
             int temp=num*currMax;
+            int temp2=num*currMin;
 
-            currMax=Math.max(Math.max(num*currMax,num*currMin),num);
-            currMin=Math.min(Math.min(temp,num*currMin),num);
+            currMax=Math.max(Math.max(temp,temp2),num);
+            currMin=Math.min(Math.min(temp,temp2),num);
             res=Math.max(currMax,res);
         }
         return res;
