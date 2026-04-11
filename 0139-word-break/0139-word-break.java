@@ -8,7 +8,7 @@ class Solution {
         for(int i=1;i<n+1;i++){
             for(String w:wordDict){
                 int st=i-w.length();
-                if(st>=0 && dp[st] && s.substring(st,i).equals(w)){
+                if(st>=0 && dp[st]==true && s.substring(st,i).equals(w)){
                     dp[i]=true;
                     break;
                 }
