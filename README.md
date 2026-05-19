@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
+| [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/lucky15426/LeetCode.solns/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/lucky15426/LeetCode.solns/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/lucky15426/LeetCode.solns/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/lucky15426/LeetCode.solns/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/lucky15426/LeetCode.solns/tree/main/0875-koko-eating-bananas/) | Medium |
+| [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
