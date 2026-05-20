@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/lucky15426/LeetCode.solns/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/lucky15426/LeetCode.solns/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/lucky15426/LeetCode.solns/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/lucky15426/LeetCode.solns/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/lucky15426/LeetCode.solns/tree/main/0070-climbing-stairs/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/lucky15426/LeetCode.solns/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lucky15426/LeetCode.solns/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/lucky15426/LeetCode.solns/tree/main/0139-word-break/) | Medium |
@@ -249,4 +251,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
