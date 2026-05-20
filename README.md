@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
 | [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lucky15426/LeetCode.solns/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/lucky15426/LeetCode.solns/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lucky15426/LeetCode.solns/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0136-single-number/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lucky15426/LeetCode.solns/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
