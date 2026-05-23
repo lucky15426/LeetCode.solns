@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/lucky15426/LeetCode.solns/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lucky15426/LeetCode.solns/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
