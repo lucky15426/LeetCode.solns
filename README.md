@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/lucky15426/LeetCode.solns/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/lucky15426/LeetCode.solns/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1871-jump-game-vii](https://github.com/lucky15426/LeetCode.solns/tree/main/1871-jump-game-vii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/lucky15426/LeetCode.solns/tree/main/0647-palindromic-substrings/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/lucky15426/LeetCode.solns/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1340-jump-game-v](https://github.com/lucky15426/LeetCode.solns/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/lucky15426/LeetCode.solns/tree/main/1871-jump-game-vii/) | Medium |
 ## Stack
