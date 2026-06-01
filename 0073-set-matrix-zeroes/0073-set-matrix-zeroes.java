@@ -3,41 +3,27 @@ class Solution {
         int n=matrix.length;
         int m=matrix[0].length;
 
-        boolean rowZero=false;
+        int row[]=new int[n];
+        int col[]=new int[m];
 
-        for(int r=0;r<n;r++){
-            for(int c=0;c<m;c++){
-                if(matrix[r][c]==0){
-                    matrix[0][c]=0;
-                    if(r>0){
-                        matrix[r][0]=0;
-                    }else{
-                        rowZero=true;
-                    }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(matrix[i][j]==0){
+                    row[i]=1;
+                    col[j]=1;
+
+
                 }
             }
         }
 
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(row[i]==1||col[j]==1){
+                    matrix[i][j]=0;
+                }
+            }
+        }
         
-        for(int r=1;r<n;r++){
-            for(int c=1;c<m;c++){
-                if(matrix[r][0]==0 || matrix[0][c]==0){
-                    matrix[r][c]=0;
-                }
-            }
-        }
-
-        if(matrix[0][0]==0){
-            for(int r=0;r<n;r++){
-                matrix[r][0]=0;
-            }
-        }
-
-        if(rowZero==true){
-            for(int c=0;c<m;c++){
-                matrix[0][c]=0;
-            }
-        }
-
     }
 }
