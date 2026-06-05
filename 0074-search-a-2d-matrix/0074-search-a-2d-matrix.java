@@ -3,12 +3,25 @@ class Solution {
         int n=matrix.length;
         int m=matrix[0].length;
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(matrix[i][j]==target){
+        int st=0;
+        int end=n-1;
+
+        while(st<=end){
+            int mid=st+(end-st)/2;
+            for(int i=0;i<m;i++){
+                if(matrix[mid][i]==target){
                     return true;
+
                 }
             }
+            
+             if(matrix[mid][0]>target){
+                    end=mid-1;
+                }else{
+                    st=mid+1;
+                }
+            
+
         }
         return false;
 
