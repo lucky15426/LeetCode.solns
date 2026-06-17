@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0042-trapping-rain-water/) | Hard |
 | [0063-unique-paths-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0064-minimum-path-sum/) | Medium |
@@ -320,5 +321,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
