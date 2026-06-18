@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/lucky15426/LeetCode.solns/tree/main/0853-car-fleet/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/lucky15426/LeetCode.solns/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/lucky15426/LeetCode.solns/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucky15426/LeetCode.solns/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0202-happy-number/) | Easy |
+| [0877-stone-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/lucky15426/LeetCode.solns/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0494-target-sum/) | Medium |
 | [0647-palindromic-substrings](https://github.com/lucky15426/LeetCode.solns/tree/main/0647-palindromic-substrings/) | Medium |
+| [0877-stone-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0877-stone-game/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/lucky15426/LeetCode.solns/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -326,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0090-subsets-ii/) | Medium |
 | [0494-target-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0494-target-sum/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
