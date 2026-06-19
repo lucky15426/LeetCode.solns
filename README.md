@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/lucky15426/LeetCode.solns/tree/main/0043-multiply-strings/) | Medium |
 | [0071-simplify-path](https://github.com/lucky15426/LeetCode.solns/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/lucky15426/LeetCode.solns/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/lucky15426/LeetCode.solns/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/lucky15426/LeetCode.solns/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/lucky15426/LeetCode.solns/tree/main/0139-word-break/) | Medium |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/lucky15426/LeetCode.solns/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/lucky15426/LeetCode.solns/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/lucky15426/LeetCode.solns/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lucky15426/LeetCode.solns/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/lucky15426/LeetCode.solns/tree/main/0139-word-break/) | Medium |
