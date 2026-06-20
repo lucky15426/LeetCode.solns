@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lucky15426/LeetCode.solns/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/lucky15426/LeetCode.solns/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0206-reverse-linked-list/) | Easy |
 ## String
@@ -341,5 +342,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lucky15426/LeetCode.solns/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
