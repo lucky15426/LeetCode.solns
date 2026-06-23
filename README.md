@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/lucky15426/LeetCode.solns/tree/main/0002-add-two-numbers/) | Medium |
 | [0043-multiply-strings](https://github.com/lucky15426/LeetCode.solns/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/lucky15426/LeetCode.solns/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0062-unique-paths/) | Medium |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/lucky15426/LeetCode.solns/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/lucky15426/LeetCode.solns/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/lucky15426/LeetCode.solns/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0143-reorder-list/) | Medium |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/lucky15426/LeetCode.solns/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/lucky15426/LeetCode.solns/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/lucky15426/LeetCode.solns/tree/main/0138-copy-list-with-random-pointer/) | Medium |
