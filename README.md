@@ -282,11 +282,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lucky15426/LeetCode.solns/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/lucky15426/LeetCode.solns/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/lucky15426/LeetCode.solns/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/lucky15426/LeetCode.solns/tree/main/0901-online-stock-span/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -359,4 +362,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/lucky15426/LeetCode.solns/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0206-reverse-linked-list/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
