@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/lucky15426/LeetCode.solns/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0213-house-robber-ii/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/lucky15426/LeetCode.solns/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lucky15426/LeetCode.solns/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/lucky15426/LeetCode.solns/tree/main/0853-car-fleet/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lucky15426/LeetCode.solns/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/lucky15426/LeetCode.solns/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -384,4 +388,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
