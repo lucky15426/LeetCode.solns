@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/lucky15426/LeetCode.solns/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/lucky15426/LeetCode.solns/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0377-combination-sum-iv](https://github.com/lucky15426/LeetCode.solns/tree/main/0377-combination-sum-iv/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lucky15426/LeetCode.solns/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/lucky15426/LeetCode.solns/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/lucky15426/LeetCode.solns/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/lucky15426/LeetCode.solns/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/lucky15426/LeetCode.solns/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lucky15426/LeetCode.solns/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/lucky15426/LeetCode.solns/tree/main/0853-car-fleet/) | Medium |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lucky15426/LeetCode.solns/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -339,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/lucky15426/LeetCode.solns/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Trie
@@ -361,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/lucky15426/LeetCode.solns/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,9 +405,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
