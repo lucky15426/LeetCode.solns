@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/lucky15426/LeetCode.solns/tree/main/0322-coin-change/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
