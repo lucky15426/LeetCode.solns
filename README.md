@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/lucky15426/LeetCode.solns/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1871-jump-game-vii](https://github.com/lucky15426/LeetCode.solns/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lucky15426/LeetCode.solns/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0011-container-with-most-water/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
+| [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/lucky15426/LeetCode.solns/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lucky15426/LeetCode.solns/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/lucky15426/LeetCode.solns/tree/main/1046-last-stone-weight/) | Easy |
+| [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
