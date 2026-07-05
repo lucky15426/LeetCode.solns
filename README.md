@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
+| [3975-filter-occupied-intervals](https://github.com/lucky15426/LeetCode.solns/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
+| [3975-filter-occupied-intervals](https://github.com/lucky15426/LeetCode.solns/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
