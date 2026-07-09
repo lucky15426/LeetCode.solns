@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/lucky15426/LeetCode.solns/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/lucky15426/LeetCode.solns/tree/main/0841-keys-and-rooms/) | Medium |
 | [1020-number-of-enclaves](https://github.com/lucky15426/LeetCode.solns/tree/main/1020-number-of-enclaves/) | Medium |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -442,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Quickselect
