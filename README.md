@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/lucky15426/LeetCode.solns/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0090-subsets-ii/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lucky15426/LeetCode.solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/lucky15426/LeetCode.solns/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lucky15426/LeetCode.solns/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0136-single-number/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/lucky15426/LeetCode.solns/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/lucky15426/LeetCode.solns/tree/main/0076-minimum-window-substring/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lucky15426/LeetCode.solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/lucky15426/LeetCode.solns/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/lucky15426/LeetCode.solns/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/lucky15426/LeetCode.solns/tree/main/0141-linked-list-cycle/) | Easy |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lucky15426/LeetCode.solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/lucky15426/LeetCode.solns/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lucky15426/LeetCode.solns/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lucky15426/LeetCode.solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
@@ -468,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lucky15426/LeetCode.solns/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lucky15426/LeetCode.solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
