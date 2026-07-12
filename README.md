@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/lucky15426/LeetCode.solns/tree/main/0322-coin-change/) | Medium |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
@@ -461,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
