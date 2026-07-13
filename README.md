@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0257-binary-tree-paths/) | Easy |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0090-subsets-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0494-target-sum/) | Medium |
 ## Game Theory
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lucky15426/LeetCode.solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0257-binary-tree-paths/) | Easy |
@@ -475,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lucky15426/LeetCode.solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0257-binary-tree-paths/) | Easy |
