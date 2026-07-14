@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/lucky15426/LeetCode.solns/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lucky15426/LeetCode.solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lucky15426/LeetCode.solns/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/lucky15426/LeetCode.solns/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lucky15426/LeetCode.solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/lucky15426/LeetCode.solns/tree/main/0841-keys-and-rooms/) | Medium |
 | [1020-number-of-enclaves](https://github.com/lucky15426/LeetCode.solns/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lucky15426/LeetCode.solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lucky15426/LeetCode.solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -494,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lucky15426/LeetCode.solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
