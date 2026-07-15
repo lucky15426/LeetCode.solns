@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lucky15426/LeetCode.solns/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/0437-path-sum-iii/) | Medium |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lucky15426/LeetCode.solns/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/0437-path-sum-iii/) | Medium |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lucky15426/LeetCode.solns/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -497,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lucky15426/LeetCode.solns/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/0437-path-sum-iii/) | Medium |
