@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/lucky15426/LeetCode.solns/tree/main/0841-keys-and-rooms/) | Medium |
 | [1020-number-of-enclaves](https://github.com/lucky15426/LeetCode.solns/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/lucky15426/LeetCode.solns/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lucky15426/LeetCode.solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/lucky15426/LeetCode.solns/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lucky15426/LeetCode.solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lucky15426/LeetCode.solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/lucky15426/LeetCode.solns/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lucky15426/LeetCode.solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
