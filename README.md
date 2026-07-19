@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/lucky15426/LeetCode.solns/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0011-container-with-most-water/) | Medium |
 | [0621-task-scheduler](https://github.com/lucky15426/LeetCode.solns/tree/main/0621-task-scheduler/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/lucky15426/LeetCode.solns/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lucky15426/LeetCode.solns/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/lucky15426/LeetCode.solns/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/lucky15426/LeetCode.solns/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/lucky15426/LeetCode.solns/tree/main/0901-online-stock-span/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/lucky15426/LeetCode.solns/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/lucky15426/LeetCode.solns/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/lucky15426/LeetCode.solns/tree/main/0901-online-stock-span/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
