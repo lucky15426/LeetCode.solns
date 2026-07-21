@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1020-number-of-enclaves](https://github.com/lucky15426/LeetCode.solns/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/lucky15426/LeetCode.solns/tree/main/1046-last-stone-weight/) | Easy |
+| [1260-shift-2d-grid](https://github.com/lucky15426/LeetCode.solns/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/lucky15426/LeetCode.solns/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/lucky15426/LeetCode.solns/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lucky15426/LeetCode.solns/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1020-number-of-enclaves](https://github.com/lucky15426/LeetCode.solns/tree/main/1020-number-of-enclaves/) | Medium |
+| [1260-shift-2d-grid](https://github.com/lucky15426/LeetCode.solns/tree/main/1260-shift-2d-grid/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0682-baseball-game/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/lucky15426/LeetCode.solns/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1260-shift-2d-grid](https://github.com/lucky15426/LeetCode.solns/tree/main/1260-shift-2d-grid/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
