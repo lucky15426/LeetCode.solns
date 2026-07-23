@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lucky15426/LeetCode.solns/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/lucky15426/LeetCode.solns/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lucky15426/LeetCode.solns/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lucky15426/LeetCode.solns/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lucky15426/LeetCode.solns/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
