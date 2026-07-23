@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/lucky15426/LeetCode.solns/tree/main/1340-jump-game-v/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/lucky15426/LeetCode.solns/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lucky15426/LeetCode.solns/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/lucky15426/LeetCode.solns/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lucky15426/LeetCode.solns/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lucky15426/LeetCode.solns/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/lucky15426/LeetCode.solns/tree/main/2126-destroying-asteroids/) | Medium |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/lucky15426/LeetCode.solns/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/lucky15426/LeetCode.solns/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2126-destroying-asteroids](https://github.com/lucky15426/LeetCode.solns/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lucky15426/LeetCode.solns/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
