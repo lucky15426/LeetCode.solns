@@ -1,7 +1,7 @@
 class Solution {
     public boolean mergeTriplets(int[][] triplets, int[] target) {
         int hehe[]=new int[3];
-        boolean ans=false;
+        
 
         for(int t[]:triplets){
             if(t[0]<= target[0] && t[1]<=target[1] && t[2]<=target[2]){
