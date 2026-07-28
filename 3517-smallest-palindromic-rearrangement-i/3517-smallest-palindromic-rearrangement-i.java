@@ -1,19 +1,17 @@
 class Solution {
     public String smallestPalindrome(String s) {
         int n=s.length();
-        if(n==1)return s;
         int mid=n/2;
-        char arr[]=s.substring(0,mid).toCharArray();
-        Arrays.sort(arr);
+        char str[]=s.substring(0,mid).toCharArray();
 
-        String left=new String(arr);
+        Arrays.sort(str);
+
+        String left=new String(str);
         String right=new StringBuilder(left).reverse().toString();
 
-        if(n%2==0){
-            return left+right;
-        }
+        if(n%2==0)return left+right;
 
-        return left+s.charAt(n/2)+right;
+        return left+s.charAt(mid)+right;
         
     }
 }
