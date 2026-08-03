@@ -634,4 +634,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1406-stone-game-iii/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/lucky15426/LeetCode.solns/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
