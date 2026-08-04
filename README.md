@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/lucky15426/LeetCode.solns/tree/main/0647-palindromic-substrings/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/lucky15426/LeetCode.solns/tree/main/0763-partition-labels/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/lucky15426/LeetCode.solns/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/lucky15426/LeetCode.solns/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/lucky15426/LeetCode.solns/tree/main/0763-partition-labels/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0011-container-with-most-water/) | Medium |
 | [0621-task-scheduler](https://github.com/lucky15426/LeetCode.solns/tree/main/0621-task-scheduler/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/lucky15426/LeetCode.solns/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/lucky15426/LeetCode.solns/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
