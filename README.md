@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/lucky15426/LeetCode.solns/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/lucky15426/LeetCode.solns/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/lucky15426/LeetCode.solns/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/lucky15426/LeetCode.solns/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/lucky15426/LeetCode.solns/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/lucky15426/LeetCode.solns/tree/main/0139-word-break/) | Medium |
+| [0242-valid-anagram](https://github.com/lucky15426/LeetCode.solns/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/lucky15426/LeetCode.solns/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/lucky15426/LeetCode.solns/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/lucky15426/LeetCode.solns/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/lucky15426/LeetCode.solns/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/lucky15426/LeetCode.solns/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lucky15426/LeetCode.solns/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
