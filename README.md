@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1020-number-of-enclaves](https://github.com/lucky15426/LeetCode.solns/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/lucky15426/LeetCode.solns/tree/main/1046-last-stone-weight/) | Easy |
+| [1140-stone-game-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/lucky15426/LeetCode.solns/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/lucky15426/LeetCode.solns/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/lucky15426/LeetCode.solns/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/lucky15426/LeetCode.solns/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lucky15426/LeetCode.solns/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/lucky15426/LeetCode.solns/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1340-jump-game-v](https://github.com/lucky15426/LeetCode.solns/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1406-stone-game-iii/) | Hard |
@@ -403,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1140-stone-game-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/lucky15426/LeetCode.solns/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/lucky15426/LeetCode.solns/tree/main/1871-jump-game-vii/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -533,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/lucky15426/LeetCode.solns/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1406-stone-game-iii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -642,10 +647,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1406-stone-game-iii/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
