@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/lucky15426/LeetCode.solns/tree/main/1340-jump-game-v/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/lucky15426/LeetCode.solns/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/lucky15426/LeetCode.solns/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/lucky15426/LeetCode.solns/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/lucky15426/LeetCode.solns/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/lucky15426/LeetCode.solns/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lucky15426/LeetCode.solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lucky15426/LeetCode.solns/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lucky15426/LeetCode.solns/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/lucky15426/LeetCode.solns/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lucky15426/LeetCode.solns/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Sorting
@@ -330,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/lucky15426/LeetCode.solns/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/lucky15426/LeetCode.solns/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/lucky15426/LeetCode.solns/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/lucky15426/LeetCode.solns/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2126-destroying-asteroids](https://github.com/lucky15426/LeetCode.solns/tree/main/2126-destroying-asteroids/) | Medium |
