@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/lucky15426/LeetCode.solns/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lucky15426/LeetCode.solns/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/lucky15426/LeetCode.solns/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1260-shift-2d-grid](https://github.com/lucky15426/LeetCode.solns/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/lucky15426/LeetCode.solns/tree/main/1929-concatenation-of-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
