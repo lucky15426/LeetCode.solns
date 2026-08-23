@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/lucky15426/LeetCode.solns/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1406-stone-game-iii/) | Hard |
+| [1927-sum-game](https://github.com/lucky15426/LeetCode.solns/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lucky15426/LeetCode.solns/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/lucky15426/LeetCode.solns/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1871-jump-game-vii](https://github.com/lucky15426/LeetCode.solns/tree/main/1871-jump-game-vii/) | Medium |
+| [1927-sum-game](https://github.com/lucky15426/LeetCode.solns/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lucky15426/LeetCode.solns/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/lucky15426/LeetCode.solns/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/lucky15426/LeetCode.solns/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
+| [1927-sum-game](https://github.com/lucky15426/LeetCode.solns/tree/main/1927-sum-game/) | Medium |
 | [2126-destroying-asteroids](https://github.com/lucky15426/LeetCode.solns/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lucky15426/LeetCode.solns/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -556,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/lucky15426/LeetCode.solns/tree/main/1406-stone-game-iii/) | Hard |
+| [1927-sum-game](https://github.com/lucky15426/LeetCode.solns/tree/main/1927-sum-game/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
