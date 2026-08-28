@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lucky15426/LeetCode.solns/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0018-4sum/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/lucky15426/LeetCode.solns/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0043-multiply-strings](https://github.com/lucky15426/LeetCode.solns/tree/main/0043-multiply-strings/) | Medium |
 | [0071-simplify-path](https://github.com/lucky15426/LeetCode.solns/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/lucky15426/LeetCode.solns/tree/main/0072-edit-distance/) | Medium |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lucky15426/LeetCode.solns/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/lucky15426/LeetCode.solns/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0063-unique-paths-ii/) | Medium |
@@ -705,4 +708,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lucky15426/LeetCode.solns/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
