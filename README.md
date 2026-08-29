@@ -720,4 +720,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/lucky15426/LeetCode.solns/tree/main/0322-coin-change/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/lucky15426/LeetCode.solns/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
