@@ -724,4 +724,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/lucky15426/LeetCode.solns/tree/main/0139-word-break/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
