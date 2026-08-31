@@ -586,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/lucky15426/LeetCode.solns/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/lucky15426/LeetCode.solns/tree/main/0206-reverse-linked-list/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/lucky15426/LeetCode.solns/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
