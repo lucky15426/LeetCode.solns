@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/lucky15426/LeetCode.solns/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/lucky15426/LeetCode.solns/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [3975-filter-occupied-intervals](https://github.com/lucky15426/LeetCode.solns/tree/main/3975-filter-occupied-intervals/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
