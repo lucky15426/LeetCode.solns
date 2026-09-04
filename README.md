@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/lucky15426/LeetCode.solns/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0494-target-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/lucky15426/LeetCode.solns/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/lucky15426/LeetCode.solns/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/lucky15426/LeetCode.solns/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/lucky15426/LeetCode.solns/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/lucky15426/LeetCode.solns/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0525-contiguous-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/lucky15426/LeetCode.solns/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/lucky15426/LeetCode.solns/tree/main/0621-task-scheduler/) | Medium |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/lucky15426/LeetCode.solns/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/lucky15426/LeetCode.solns/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/lucky15426/LeetCode.solns/tree/main/1732-find-the-highest-altitude/) | Easy |
