@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/lucky15426/LeetCode.solns/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [3975-filter-occupied-intervals](https://github.com/lucky15426/LeetCode.solns/tree/main/3975-filter-occupied-intervals/) | Medium |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/lucky15426/LeetCode.solns/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/lucky15426/LeetCode.solns/tree/main/1871-jump-game-vii/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/lucky15426/LeetCode.solns/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
