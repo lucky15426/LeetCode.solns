@@ -1,6 +1,5 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-
         HashMap<Character,Integer>map=new HashMap<>();
 
         int l=0;
@@ -12,16 +11,13 @@ class Solution {
 
             maxf=Math.max(maxf,map.get(s.charAt(r)));
 
-            while((r-l+1) - maxf > k){
+            while(r-l+1-maxf>k){
                 map.put(s.charAt(l),map.get(s.charAt(l))-1);
                 l++;
-
-            
             }
-            res=Math.max(res,r-l+1);
-        }
 
+            res=Math.max(r-l+1,res);
+        }
         return res;
-        
     }
 }
