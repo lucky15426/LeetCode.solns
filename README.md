@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/lucky15426/LeetCode.solns/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [3975-filter-occupied-intervals](https://github.com/lucky15426/LeetCode.solns/tree/main/3975-filter-occupied-intervals/) | Medium |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/lucky15426/LeetCode.solns/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/lucky15426/LeetCode.solns/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lucky15426/LeetCode.solns/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/lucky15426/LeetCode.solns/tree/main/3731-find-missing-elements/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/lucky15426/LeetCode.solns/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
