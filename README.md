@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/lucky15426/LeetCode.solns/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lucky15426/LeetCode.solns/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/lucky15426/LeetCode.solns/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0014-longest-common-prefix](https://github.com/lucky15426/LeetCode.solns/tree/main/0014-longest-common-prefix/) | Easy |
 | [0043-multiply-strings](https://github.com/lucky15426/LeetCode.solns/tree/main/0043-multiply-strings/) | Medium |
 | [0071-simplify-path](https://github.com/lucky15426/LeetCode.solns/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/lucky15426/LeetCode.solns/tree/main/0072-edit-distance/) | Medium |
@@ -541,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/lucky15426/LeetCode.solns/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/lucky15426/LeetCode.solns/tree/main/0139-word-break/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
