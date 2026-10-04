@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/lucky15426/LeetCode.solns/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/lucky15426/LeetCode.solns/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/lucky15426/LeetCode.solns/tree/main/0763-partition-labels/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lucky15426/LeetCode.solns/tree/main/0011-container-with-most-water/) | Medium |
 | [0621-task-scheduler](https://github.com/lucky15426/LeetCode.solns/tree/main/0621-task-scheduler/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/lucky15426/LeetCode.solns/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/lucky15426/LeetCode.solns/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/lucky15426/LeetCode.solns/tree/main/0846-hand-of-straights/) | Medium |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/lucky15426/LeetCode.solns/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/lucky15426/LeetCode.solns/tree/main/0494-target-sum/) | Medium |
 | [0647-palindromic-substrings](https://github.com/lucky15426/LeetCode.solns/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/lucky15426/LeetCode.solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/lucky15426/LeetCode.solns/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -433,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/lucky15426/LeetCode.solns/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/lucky15426/LeetCode.solns/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/lucky15426/LeetCode.solns/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/lucky15426/LeetCode.solns/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/lucky15426/LeetCode.solns/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/lucky15426/LeetCode.solns/tree/main/0853-car-fleet/) | Medium |
@@ -771,4 +775,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/1143-longest-common-subsequence/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
