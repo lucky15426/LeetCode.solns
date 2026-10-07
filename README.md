@@ -793,4 +793,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/lucky15426/LeetCode.solns/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/lucky15426/LeetCode.solns/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lucky15426/LeetCode.solns/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/lucky15426/LeetCode.solns/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
