@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/lucky15426/LeetCode.solns/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/lucky15426/LeetCode.solns/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1871-jump-game-vii](https://github.com/lucky15426/LeetCode.solns/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/lucky15426/LeetCode.solns/tree/main/1927-sum-game/) | Medium |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/lucky15426/LeetCode.solns/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/lucky15426/LeetCode.solns/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1405-longest-happy-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1405-longest-happy-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/lucky15426/LeetCode.solns/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1927-sum-game](https://github.com/lucky15426/LeetCode.solns/tree/main/1927-sum-game/) | Medium |
 | [2126-destroying-asteroids](https://github.com/lucky15426/LeetCode.solns/tree/main/2126-destroying-asteroids/) | Medium |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lucky15426/LeetCode.solns/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/lucky15426/LeetCode.solns/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lucky15426/LeetCode.solns/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -796,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/lucky15426/LeetCode.solns/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lucky15426/LeetCode.solns/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/lucky15426/LeetCode.solns/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lucky15426/LeetCode.solns/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
