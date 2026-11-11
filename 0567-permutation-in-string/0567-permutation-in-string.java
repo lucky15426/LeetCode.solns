@@ -5,8 +5,7 @@ class Solution {
             map1.put(ch,map1.getOrDefault(ch,0)+1);
 
         }
-        int l=0;
-        
+        int l=0;        
         int n=s2.length();
         HashMap<Character,Integer>map2=new HashMap<>();
         for(int r=0;r<n;r++){
